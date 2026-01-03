@@ -1,6 +1,9 @@
 # Ari Eats - Thailand Restaurant Picker
 
-A modern web application built with React and Vite to help you discover and pick restaurants in Thailand. Features a clean, responsive UI designed with Tailwind CSS and Lucide icons.
+The wife and I were struggling to decide where to eat while travelling in the Ari Bangkok area. I then used Gemini AI to write an app that allows you to quickly identify restaurants and even randomly select restaurants that are close to the Ari BTS station. 
+
+<img src="https://github.com/andrewliew86/Thailand-restaurant-picker/blob/main/images/IMG_3924.jpeg" width=60% height=60%>
+
 
 ## Features
 
@@ -16,6 +19,10 @@ A modern web application built with React and Vite to help you discover and pick
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 - **Linting**: ESLint
+
+Figure 1: Example screenshots of the restaurant picker app
+
+<img src="https://github.com/andrewliew86/Thailand-restaurant-picker/blob/main/images/app_images.png" width=60% height=60%>
 
 ## Setup and Installation
 
@@ -49,10 +56,6 @@ A modern web application built with React and Vite to help you discover and pick
 - `npm run preview` - Preview the production build locally
 - `npm run lint` - Run ESLint for code linting
 
-## Contributing
+## Notes
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
+This is an app that was vibe coded using Gemini AI. The app should not be used in production.
