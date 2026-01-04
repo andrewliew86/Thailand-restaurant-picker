@@ -1,6 +1,6 @@
 # Ari Eats - Thailand Restaurant Picker
 
-The wife and I were struggling to decide where to eat while travelling in the Ari Bangkok area. I then used Gemini AI to write an app that allows you to quickly identify restaurants and even randomly select restaurants that are close to the Ari BTS station. 
+My wife and I were struggling to decide where to eat while travelling in the Ari (Bangkok) area. I then used Gemini AI to write an app that allows you to quickly identify restaurants and even randomly select restaurants that are close to the Ari BTS station. 
 
 <img src="https://github.com/andrewliew86/Thailand-restaurant-picker/blob/main/images/IMG_3924.jpeg" width=60% height=60%>
 
@@ -58,4 +58,5 @@ Figure 1: Example screenshots of the restaurant picker app
 
 ## Notes
 
-This is an app that was vibe coded using Gemini AI. The app should not be used in production.
+- This app was 100% vibe-coded using Gemini AI. The app should not be used in production!
+- The data was hard coded by Gemini and does not use API calls. Therefore information on restaurant and reviews are likely to be relevant till January 2026.
